@@ -1,3 +1,3 @@
 <?php
 
-echo "Lev Tregubov";
+echo "Conflict";
